@@ -2,6 +2,8 @@ Hallo Welt und so !!
 
 Das ist echt toll!
 
+Bugfix für das Merge Beispiel!
+
 Wubbalubba Dub Dub!
 
 Das ist eine neue Zeile im Dokument!
