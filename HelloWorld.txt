@@ -9,3 +9,6 @@ Das ist eine neue Zeile aus dem Github!!
 Wubbalubba Dub Dub!
 
 Das ist eine neue Zeile im Dokument!
+
+
+Huhu das ist die Zeile aus dem lokalen Repository!!
