@@ -4,6 +4,8 @@ Das ist echt toll!
 
 Bugfix für das Merge Beispiel!
 
+Das ist eine neue Zeile aus dem Github!!
+
 Wubbalubba Dub Dub!
 
 Das ist eine neue Zeile im Dokument!
